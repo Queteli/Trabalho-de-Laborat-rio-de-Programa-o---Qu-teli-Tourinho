@@ -1,0 +1,16 @@
+[
+    {
+        "id": 1,
+        "Nome": "BLUSA QUETELI",
+        "Categoria": "BLUSA",
+        "Preço": 40.0,
+        "Quantidade": 4
+    },
+    {
+        "id": 2,
+        "Nome": "calça cargo",
+        "Categoria": "calça",
+        "Preço": 100.0,
+        "Quantidade": 9
+    }
+]
